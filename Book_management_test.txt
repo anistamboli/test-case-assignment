@@ -1,0 +1,57 @@
+#Create, Add, remove and search book in a basic book records system...
+  run test cases snippets for book management system...
+
+=== RESTART: C:\Users\Anis\Desktop\Assignments\basics n DS\Book_Mngmt_Dict.py ==
+
+All books:  {'1': 'Naruto - Masashi Kishimoto ', '2': 'Shingeki no Kyojin - Hajime Isayama', '3': 'DB series - Akira Toriyama', '4': 'Berserk - Miura', '5': 'Vinland Saga - Makoto Yukimura', '6': 'Kimi no nawa - Makoto Shinkai'}
+
+type: 1.create new Book system  2.add book  3.remove book  4.search book  5.show all books  .anythyng to exit : 
+
+Enter choice : 4
+Enter id of book to search: 2
+2  is a book naming :  Shingeki no Kyojin - Hajime Isayama
+
+Enter choice : 2
+Enter book id to add : 12
+Enter book name to add : OP - Eiichiro Oda
+Book added successfully...
+
+Enter choice : 5
+{'1': 'Naruto - Masashi Kishimoto ', '2': 'Shingeki no Kyojin - Hajime Isayama', '3': 'DB series - Akira Toriyama', '4': 'Berserk - Miura', '5': 'Vinland Saga - Makoto Yukimura', '6': 'Kimi no nawa - Makoto Shinkai', '12': 'OP - Eiichiro Oda'}
+
+Enter choice : 3
+Enter book id to remove book : 3
+book removed successfully...
+
+Enter choice : 5
+{'1': 'Naruto - Masashi Kishimoto ', '2': 'Shingeki no Kyojin - Hajime Isayama', '4': 'Berserk - Miura', '5': 'Vinland Saga - Makoto Yukimura', '6': 'Kimi no nawa - Makoto Shinkai', '12': 'OP - Eiichiro Oda'}
+
+Enter choice : 1
+new book system created...
+{}
+
+Enter choice : 5
+{}
+
+Enter choice : 2
+Enter book id to add : 1
+Enter book name to add : Shingeki no Kyojin - Hajime Isayama
+Book added successfully...
+
+Enter choice : 5
+{'1': 'Shingeki no Kyojin - Hajime Isayama'}
+
+Enter choice : 2
+Enter book id to add : 3
+Enter book name to add : Vinland Saga - Makoto Yukimura
+Book added successfully...
+
+Enter choice : 5
+{'1': 'Shingeki no Kyojin - Hajime Isayama', '3': 'Vinland Saga - Makoto Yukimura'}
+
+Enter choice : 2
+Enter book id to add : 3
+Book already exists
+
+Enter choice : x
+ok confirm exit... 

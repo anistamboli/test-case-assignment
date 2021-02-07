@@ -1,0 +1,33 @@
+#Assignment codes in Python
+
+This are the codes and their respective test cases for assignment questions in python language.
+
+For book management system using dict instead of test cases I have provided code run snippets for crrate, add, remove, search and show all operations...
+
+For all other remaining codes there is one main code file taking user input as well as other test file providing test code with conditions...
+
+direct links for all codes are given below:
+online compiler link: https://www.onlinegdb.com/online_python_compiler 
+
+Book management using dict: https://onlinegdb.com/Hyiv4iTgd
+
+maximum occured character/s: https://onlinegdb.com/_1DBVsUDI
+        test code: https://onlinegdb.com/g5sqQf52q
+
+number to sanskrit word: https://onlinegdb.com/cqfYtJUqv
+	test code: https://onlinegdb.com/iZQUEPmgd
+
+Digits in a number: https://onlinegdb.com/tkJcGIBMv
+        test code: https://onlinegdb.com/Yl_vM8vrG
+
+palindrome check: https://onlinegdb.com/B1G6tsTx_
+	test code: https://onlinegdb.com/ByZW9iaxd
+
+perfect number in given range: https://onlinegdb.com/ryZ_9o6lO
+	test code: https://onlinegdb.com/B1BscipeO
+
+Random number generator: https://onlinegdb.com/HyORqoalu
+	test code: https://onlinegdb.com/XwvT_2Gf8
+
+Search word in a File: https://onlinegdb.com/EBbb3-mdE
+	test code:  https://onlinegdb.com/MomjYHtUR
